@@ -1,0 +1,11 @@
+F:\User\Joel\Documents\Visual Studio 2015\Projects\Gomoku\Gomoku\obj\Debug\Gomoku.MenuForm.resources
+F:\User\Joel\Documents\Visual Studio 2015\Projects\Gomoku\Gomoku\obj\Debug\Gomoku.GameForm.resources
+F:\User\Joel\Documents\Visual Studio 2015\Projects\Gomoku\Gomoku\obj\Debug\Gomoku.Properties.Resources.resources
+F:\User\Joel\Documents\Visual Studio 2015\Projects\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.GenerateResource.Cache
+F:\User\Joel\Documents\Visual Studio 2015\Projects\Gomoku\Gomoku\bin\Debug\scores.txt
+F:\User\Joel\Documents\Visual Studio 2015\Projects\Gomoku\Gomoku\bin\Debug\Gomoku.exe.config
+F:\User\Joel\Documents\Visual Studio 2015\Projects\Gomoku\Gomoku\bin\Debug\Gomoku.exe
+F:\User\Joel\Documents\Visual Studio 2015\Projects\Gomoku\Gomoku\bin\Debug\Gomoku.pdb
+F:\User\Joel\Documents\Visual Studio 2015\Projects\Gomoku\Gomoku\obj\Debug\Gomoku.exe
+F:\User\Joel\Documents\Visual Studio 2015\Projects\Gomoku\Gomoku\obj\Debug\Gomoku.pdb
+F:\User\Joel\Documents\Visual Studio 2015\Projects\Gomoku\Gomoku\obj\Debug\Gomoku.csprojResolveAssemblyReference.cache

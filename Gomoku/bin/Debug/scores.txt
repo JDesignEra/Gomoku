@@ -1,0 +1,12 @@
+Hard,0,1
+Hard,1,0
+Hard,2,2
+Normal,2,0
+Normal,1,0
+Hard,0,1
+Hard,1,2
+Normal,1,0
+Dumb,3,0
+Dumb,1,0
+Dumb,2,0
+Normal,0,1
